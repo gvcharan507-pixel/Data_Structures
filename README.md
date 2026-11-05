@@ -124,7 +124,7 @@ A structured, production-grade collection of core data structures, foundational 
 
 ---
 *Maintained as part of my computer science engineering journey.*
-'''text
+'''
 [ Data Structures & Algorithms Repository ]
 │
 ├── 1. Array
@@ -157,6 +157,6 @@ A structured, production-grade collection of core data structures, foundational 
      ├── Representation ──> [ Adjacency Matrix | Adjacency List ]
      ├── Traversal      ──> [ BFS | DFS ]
      └── Algorithms     ──> [ Dijkstra's | Prim's | Kruskal's | Topological Sort ]
-     '''text
+     '''
 
 
