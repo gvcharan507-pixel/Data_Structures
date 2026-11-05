@@ -123,7 +123,7 @@ A structured, production-grade collection of core data structures, foundational 
 - **Focus:** Clean code, modular design, well-documented time and space complexity analyses.
 
 ---
-'''
+```
 *Maintained as part of my computer science engineering journey.*
 
 [ Data Structures & Algorithms Repository ]
@@ -158,6 +158,7 @@ A structured, production-grade collection of core data structures, foundational 
      ├── Representation ──> [ Adjacency Matrix | Adjacency List ]
      ├── Traversal      ──> [ BFS | DFS ]
      └── Algorithms     ──> [ Dijkstra's | Prim's | Kruskal's | Topological Sort ]
-     '''
+```
+  
 
 
