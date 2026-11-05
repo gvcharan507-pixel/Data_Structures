@@ -123,8 +123,9 @@ A structured, production-grade collection of core data structures, foundational 
 - **Focus:** Clean code, modular design, well-documented time and space complexity analyses.
 
 ---
-*Maintained as part of my computer science engineering journey.*
 '''
+*Maintained as part of my computer science engineering journey.*
+
 [ Data Structures & Algorithms Repository ]
 │
 ├── 1. Array
