@@ -119,8 +119,42 @@ A structured, production-grade collection of core data structures, foundational 
 ---
 
 ## 🛠️ Tech Stack & Conventions
-- **Languages:** C, Python
+- **Languages:** C
 - **Focus:** Clean code, modular design, well-documented time and space complexity analyses.
 
 ---
 *Maintained as part of my computer science engineering journey.*
+[ Data Structures & Algorithms Repository ]
+│
+├── 1. Array
+│    ├── Searching ──> [ Linear Search | Binary Search ]
+│    └── Sorting   ──> [ Bubble | Selection | Insertion | Merge | Quick ]
+│
+├── 2. Stack
+│    ├── Operations  ──> [ Push & Pop | Peek | Is Empty | Is Full ]
+│    ├── Evaluation  ──> [ Postfix | Prefix (Polish Notations) ]
+│    └── Impl.       ──> [ Using Array | Using Linked List ]
+│
+├── 3. Queue
+│    ├── Operations  ──> [ Enqueue & Dequeue | Peek Front | Is Empty | Is Full ]
+│    ├── Types       ──> [ Single | Double Ended (Deque) | Circular | Priority ]
+│    └── Impl.       ──> [ Using Array | Using Linked List ]
+│
+├── 4. Linked List
+│    ├── Types       ──> [ Singly | Doubly | Circular ]
+│    └── Operations  ──> [ Traversal | Insertion | Deletion | Searching | Reverse | Merge | Comparison ]
+│
+├── 5. Tree
+│    ├── Binary Tree     ──> [ Structure & Properties | Types ]
+│    ├── Binary Search Tree ──> [ Insertion | Deletion | Searching | Balancing (AVL) ]
+│    ├── Traversals      ──> [ Pre-order | In-order | Post-order | Level-order (BFS) | Morris ]
+│    ├── Advanced Trees  ──> [ Red-Black | B-Trees | Trie | Segment | Fenwick ]
+│    ├── Algorithms      ──> [ LCA | Diameter | Isomorphism | Serialize/Deserialize ]
+│    └── Applications    ──> [ Heap Sort | Huffman Coding | Decision Trees | Syntax Trees ]
+│
+└── 6. Graph
+     ├── Representation ──> [ Adjacency Matrix | Adjacency List ]
+     ├── Traversal      ──> [ BFS | DFS ]
+     └── Algorithms     ──> [ Dijkstra's | Prim's | Kruskal's | Topological Sort ]
+
+
